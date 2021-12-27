@@ -1,0 +1,3 @@
+C:/Users/loyal/Documents/Project/tinvv/Anti-Chrome/cmake-build-debug/CMakeFiles/Anti_Chrome.dir
+C:/Users/loyal/Documents/Project/tinvv/Anti-Chrome/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/loyal/Documents/Project/tinvv/Anti-Chrome/cmake-build-debug/CMakeFiles/rebuild_cache.dir
